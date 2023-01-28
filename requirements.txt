@@ -1,0 +1,4 @@
+hug
+joblib==1.2.0
+numpy==1.21.6
+opencv-python==4.6.0.66
