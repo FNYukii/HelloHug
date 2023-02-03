@@ -16,5 +16,5 @@
     ```
 2. Dockerコンテナを起動
     ```
-    docker run -it --rm -p 8000:8000 -v $(pwd)/app:/app hello_hug
+    $ docker run -it --rm -p 8000:8000 -v $(pwd)/app:/app hello_hug
     ```
